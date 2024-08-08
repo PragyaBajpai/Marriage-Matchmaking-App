@@ -83,3 +83,6 @@ Content-Type: application/json
     "city": "New York",
     "interests": ["reading", "coding"]
 }
+
+Postman API Collection- 
+https://api.postman.com/collections/29977454-4c8a0a88-4e51-47e9-b888-7925cec72199?access_key=PMAT-01J4SA61AAW4EZD38S9RMPSJPD
